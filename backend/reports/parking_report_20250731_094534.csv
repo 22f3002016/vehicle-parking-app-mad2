@@ -1,0 +1,9 @@
+Reservation ID,Username,Email,Parking Lot,Address,Spot Number,Parking Time,Leaving Time,Duration (Hours),Cost (₹),Status
+1,sujit01,sujitlaware1809@gmail.com,vadpalani,sd,A1,2025-07-31 09:38:43.442251,N/A,N/A,₹0.00,Active
+
+SUMMARY STATISTICS
+Total Reservations,1
+Completed Reservations,0
+Active Reservations,1
+Total Revenue,₹0.00
+Report Generated,2025-07-31 09:45:34 UTC

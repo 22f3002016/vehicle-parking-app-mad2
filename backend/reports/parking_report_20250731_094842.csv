@@ -1,0 +1,10 @@
+Reservation ID,Username,Email,Parking Lot,Address,Spot Number,Parking Time,Leaving Time,Duration (Hours),Cost (₹),Status
+2,anil01,22f3002016@ds.study.iitm.ac.in,vadpalani,sd,A2,2025-07-31 09:47:14.734371,2025-07-31 09:47:21.100608,0.0,₹10.00,Completed
+1,sujit01,sujitlaware1809@gmail.com,vadpalani,sd,A1,2025-07-31 09:38:43.442251,N/A,N/A,₹0.00,Active
+
+SUMMARY STATISTICS
+Total Reservations,2
+Completed Reservations,1
+Active Reservations,1
+Total Revenue,₹10.00
+Report Generated,2025-07-31 09:48:42 UTC
