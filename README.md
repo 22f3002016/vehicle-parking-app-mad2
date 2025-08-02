@@ -35,7 +35,7 @@ The **Vehicle Parking App** is a robust, full-stack web application built to eff
 
 ## Database Schema
 
-> *(Add a diagram here if available. If not, a textual structure can be added later.)*
+![Database Schema](backend/Untitled.png)
 
 ---
 
